@@ -5,25 +5,12 @@ Olá! Eu sou **Thays Martins**, desenvolvedora Full Stack e estudante de Ciênci
 Tenho experiência com desenvolvimento web, automação, sistemas internos, aplicações Node.js e projetos voltados para produtividade, gestão e infraestrutura. 
 ---
 
-# 📌 Experiência
-
-## Estagiária de desenvolvimento no CREA-RJ
-Desenvolvimento de sistema interno e automações.
-
-## Desenvolvedora Júnior — Livima
-Atuação por 2 anos na manutenção e desenvolvimento de sistemas internos e aplicativo mobile.
-
----
-
 # 🛠️ Projetos em destaque
 
 ## 🔹 PostgreSQL Backup Automation
 Automação de backups PostgreSQL com integração ao Cloudflare R2 utilizando Bash, pg_dump, gzip e rclone.
-
 ---
 
 # 🌐 Links
 
 - Linkekln: www.linkedin.com/in/thaysmartinshenrique
-
----
