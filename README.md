@@ -5,9 +5,9 @@ Olá! Eu sou **Thays Martins**, desenvolvedora Full Stack e estudante de Ciênci
 Tenho experiência com desenvolvimento web, automação, sistemas internos, aplicações Node.js e projetos voltados para produtividade, gestão e infraestrutura. 
 ---
 
-# 🛠️ Projetos em destaque
+# Projetos em destaque
 
-## 🔹 PostgreSQL Backup Automation
+### PostgreSQL Backup Automation
 Automação de backups PostgreSQL com integração ao Cloudflare R2 utilizando Bash, pg_dump, gzip e rclone.
 ---
 
