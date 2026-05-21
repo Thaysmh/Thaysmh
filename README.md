@@ -7,7 +7,7 @@ Tenho experiência com desenvolvimento web, automação, sistemas internos, apli
 
 # Projetos em destaque
 
-### PostgreSQL Backup Automation
+## PostgreSQL Backup Automation
 Automação de backups PostgreSQL com integração ao Cloudflare R2 utilizando Bash, pg_dump, gzip e rclone.
 ---
 
