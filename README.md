@@ -7,6 +7,7 @@ Tenho experiência com desenvolvimento web, automação, sistemas internos, apli
 
 ## PostgreSQL Backup Automation
 Automação de backups PostgreSQL com integração ao Cloudflare R2 utilizando Bash, pg_dump, gzip e rclone.
+https://github.com/Thaysmh/postgresql-cloudflare-r2-backup
 
 ## Cloudflare-ufw 
 Script em Bash para configurar automaticamente o UFW, permitindo acesso às portas 80 e 443 apenas pelos IPs oficiais da Cloudflare.
